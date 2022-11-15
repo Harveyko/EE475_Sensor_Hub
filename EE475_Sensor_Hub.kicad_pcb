@@ -415,10 +415,13 @@
     )
   )
 
-  (gr_line (start 116.84 124.46) (end 116.84 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp 178669e2-67b1-45bb-ad82-7224766dbb63))
-  (gr_line (start 162.56 124.46) (end 116.84 124.46) (layer "Edge.Cuts") (width 0.1) (tstamp 94f8222d-ec99-4abe-8d84-90852a8ca86c))
-  (gr_line (start 162.56 63.5) (end 162.56 124.46) (layer "Edge.Cuts") (width 0.1) (tstamp c18b19f8-3ca7-4eaa-99a9-acce67924625))
+  (gr_line (start 116.84 127) (end 116.84 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp 178669e2-67b1-45bb-ad82-7224766dbb63))
+  (gr_line (start 162.56 127) (end 116.84 127) (layer "Edge.Cuts") (width 0.1) (tstamp 94f8222d-ec99-4abe-8d84-90852a8ca86c))
+  (gr_line (start 162.56 63.5) (end 162.56 127) (layer "Edge.Cuts") (width 0.1) (tstamp c18b19f8-3ca7-4eaa-99a9-acce67924625))
   (gr_line (start 116.84 63.5) (end 162.56 63.5) (layer "Edge.Cuts") (width 0.1) (tstamp f687654f-1feb-49d1-8981-3980411f103b))
+  (gr_text "Sensor Controller" (at 154.94 88.9 90) (layer "F.SilkS") (tstamp 0cb83912-d892-4e63-8ab5-3847fd8affa6)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
 
   (segment (start 137.95 105.89) (end 147.32 96.52) (width 0.76) (layer "F.Cu") (net 1) (tstamp 6bd81ac5-9591-4303-b61c-4f405af5b3d1))
   (segment (start 137.95 111.06) (end 137.95 105.89) (width 0.76) (layer "F.Cu") (net 1) (tstamp 813be1d9-0970-4c00-bd3f-2686d2cad512))
